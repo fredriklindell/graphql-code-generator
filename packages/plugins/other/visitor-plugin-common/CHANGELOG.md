@@ -1,5 +1,11 @@
 # @graphql-codegen/visitor-plugin-common
 
+## 2.2.2
+
+### Patch Changes
+
+- 3c2c847be: Fix dedupleFragments option for typescript-react-query (and possibly others)
+
 ## 2.2.1
 
 ### Patch Changes
